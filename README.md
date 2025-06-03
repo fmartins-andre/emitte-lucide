@@ -1,4 +1,8 @@
-# Lucide Lab [WIP]
+# Emitte Icons
+
+Icons on top of Lucide Lab to be used on Emitte projects
+
+## Lucide Lab
 
 Lucide Lab is a project with icons that are nicely designed but have unknown use cases.
 These icons are released in this package to "explore" the use cases of these icons.

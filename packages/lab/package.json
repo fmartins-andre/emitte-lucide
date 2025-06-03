@@ -1,13 +1,12 @@
 {
-  "name": "@fmartins-andre/emitte-icons",
+  "name": "@fmartins.andre/emitte-icons",
   "description": "This is a collection of icons on top of @lucide/labs made for Emitte projects.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "ISC",
-  "homepage": "https://lucide.dev",
-  "bugs": "https://github.com/lucide-icons/lucide-lab/issues",
+  "homepage": "https://github.com/fmartins-andre/emitte-lucide",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lucide-icons/lucide-lab.git"
+    "url": "https://github.com/fmartins-andre/emitte-lucide.git"
   },
   "keywords": [
     "Lucide",
