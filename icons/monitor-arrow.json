@@ -1,6 +1,6 @@
 {
   "$schema": "../icon.schema.json",
   "contributors": ["fmartins-andre"],
-  "tags": ["target", "arrow", "direction", "navigation", "goal"],
+  "tags": ["monitor", "arrow", "application"],
   "categories": ["emitte"]
 }

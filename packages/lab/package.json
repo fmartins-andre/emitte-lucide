@@ -1,7 +1,7 @@
 {
-  "name": "@lucide/lab",
-  "description": "Lucide lab is a project with icons that are nicely designed but have unknown use cases.",
-  "version": "0.1.2",
+  "name": "@fmartins-andre/emitte-icons",
+  "description": "This is a collection of icons on top of @lucide/labs made for Emitte projects.",
+  "version": "0.1.0",
   "license": "ISC",
   "homepage": "https://lucide.dev",
   "bugs": "https://github.com/lucide-icons/lucide-lab/issues",
